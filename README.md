@@ -20,6 +20,12 @@ This is a collection of great free and open source software.
 |-|-|-|
 |git|Source code manager|[Home page](https://git-scm.com/), [Source code](https://github.com/git/git)|
 
+## Document converters
+
+|Name|Description|Links|
+|-|-|-|
+|Pandoc|If you need to convert files from one markup format into another, pandoc is your swiss-army knife.|[Home page](https://pandoc.org/index.html)|
+
 ## Audio & video
 
 |Name|Description|Links|
