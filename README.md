@@ -82,3 +82,4 @@ This is a collection of great free and open source software.
 |Mastodon|Social media / microblog (Twitter-like)|[Home page](https://joinmastodon.org/)|
 |Matrix|Secure chat protocol and application|[Home page](https://matrix.org/), [Source code](https://github.com/matrix-org)|
 |PeerTube|Video platform|[Home page](https://joinpeertube.org/)|
+|Searx|Metasearch engine|[Home page](https://searx.github.io/searx/), [Source code](https://github.com/searx/searx)|
