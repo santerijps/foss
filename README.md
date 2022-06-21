@@ -1,4 +1,4 @@
-# FOSS
+# Awesome free and open source software
 
 This is a collection of great free and open source software.
 
@@ -12,6 +12,7 @@ This is a collection of great free and open source software.
 
 |Name|Description|Links|
 |-|-|-|
+|ghostwriter|ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.|[Home page](https://wereturtle.github.io/ghostwriter/), [Source code](https://github.com/wereturtle/ghostwriter)|
 |VSCodium|Free/Libre Open Source Software Binaries of VS Code|[Home page](https://vscodium.com/), [Source code](https://github.com/Microsoft/vscode)|
 
 ## Version control, SCM
