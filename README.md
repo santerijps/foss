@@ -37,6 +37,12 @@ This is a collection of great free and open source software.
 |GIMP|Image editing|[Home page](https://www.gimp.org/), [Source code](https://gitlab.gnome.org/GNOME/gimp/)|
 |Shotcut|Video editing|[Home page](https://shotcut.org/)|
 
+## Broadcasting
+
+|Name|Description|Links|
+|-|-|-|
+|OBS|Free and open source software for video recording and live streaming.|[Home page](https://obsproject.com/), [Source code](https://github.com/obsproject/obs-studio)|
+
 ## Media players
 
 |Name|Description|Links|
