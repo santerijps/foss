@@ -21,10 +21,11 @@ This is a collection of great free and open source software.
 |-|-|-|
 |git|Source code manager|[Home page](https://git-scm.com/), [Source code](https://github.com/git/git)|
 
-## Document converters
+## Converters
 
 |Name|Description|Links|
 |-|-|-|
+|7-Zip|7-Zip is a file archiver with a high compression ratio.|[Home page](https://www.7-zip.org/), [Source code](https://sourceforge.net/projects/sevenzip/)|
 |Pandoc|If you need to convert files from one markup format into another, pandoc is your swiss-army knife.|[Home page](https://pandoc.org/index.html)|
 
 ## Audio & video
