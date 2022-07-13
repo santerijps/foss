@@ -21,6 +21,12 @@ This is a collection of great free and open source software.
 |-|-|-|
 |git|Source code manager|[Home page](https://git-scm.com/), [Source code](https://github.com/git/git)|
 
+## Shells
+
+|Name|Description|Links|
+|-|-|-|
+|Nushell|A new type of shell|[Home page](https://www.nushell.sh/), [Source code](https://github.com/nushell/nushell)|
+
 ## Converters
 
 |Name|Description|Links|
