@@ -80,8 +80,8 @@ This is a collection of great free and open source software.
 
 |Name|Description|Links|
 |-|-|-|
-|Mozilla Thunderbird|Email client|[Home page](https://tutanota.com/)|
-|Tutanota|Email service|[Home page](https://www.thunderbird.net)|
+|Mozilla Thunderbird|Email client|[Home page](https://www.thunderbird.net)|
+|Tutanota|Email service|[Home page](https://tutanota.com/)|
 
 ## Geoinformation
 
