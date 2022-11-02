@@ -100,7 +100,7 @@ This is a collection of great free and open source software.
 
 |Name|Description|Links|
 |-|-|-|
-|Windows Powertool|...designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows|[Source code](https://github.com/windows-powertool/Powertool)|
+|Windows Powertool|...designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows|[Home page](https://www.windowspowertool.com/), [Source code](https://github.com/windows-powertool/Powertool)|
 
 ## Decentralized & self hosted
 
