@@ -96,6 +96,12 @@ This is a collection of great free and open source software.
 |CertBot|Certification signer|[Home page](https://certbot.eff.org/)|
 |PuTTY|SSH for Windows|[Home page](https://www.putty.org/)|
 
+## System utilities
+
+|Name|Description|Links|
+|-|-|-|
+|Windows Powertool|...designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows|[Source code](https://github.com/windows-powertool/Powertool)|
+
 ## Decentralized & self hosted
 
 |Name|Description|Links|
