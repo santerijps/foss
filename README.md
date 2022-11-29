@@ -110,3 +110,8 @@ This is a collection of great free and open source software.
 |Matrix|Secure chat protocol and application|[Home page](https://matrix.org/), [Source code](https://github.com/matrix-org)|
 |PeerTube|Video platform|[Home page](https://joinpeertube.org/)|
 |Searx|Metasearch engine|[Home page](https://searx.github.io/searx/), [Source code](https://github.com/searx/searx)|
+
+## Other
+|Name|Description|Links|
+|-|-|-|
+|Jitsi Meet|Jitsi Meet is a set of Open Source projects which empower users to deploy secure, scalable and easy to use video conferencing platforms with state-of-the-art video quality and features.|[Home page](https://jitsi.github.io/handbook/)|
