@@ -44,6 +44,7 @@ This is a collection of great free and open source software.
 |Blender|3d graphics|[Home page](https://www.blender.org/), [Source code](https://developer.blender.org/diffusion/)|
 |ffmpeg|Audio convertion|[Home page](https://ffmpeg.org/)|
 |GIMP|Image editing|[Home page](https://www.gimp.org/), [Source code](https://gitlab.gnome.org/GNOME/gimp/)|
+|Kirita|Krita is a professional FREE and open source painting program|[Home page](https://krita.org/en/)|
 |Shotcut|Video editing|[Home page](https://shotcut.org/)|
 
 ## Broadcasting
