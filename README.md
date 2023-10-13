@@ -27,6 +27,7 @@ This is a collection of great free and open source software.
 |Name|Description|Links|
 |-|-|-|
 |Nushell|A new type of shell|[Home page](https://www.nushell.sh/), [Source code](https://github.com/nushell/nushell)|
+|Sapling|A Scalable, User-Friendly Source Control System.|[Source code](https://github.com/facebook/sapling)|
 
 ## Converters
 
