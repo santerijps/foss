@@ -21,13 +21,13 @@ This is a collection of great free and open source software.
 |Name|Description|Links|
 |-|-|-|
 |git|Source code manager|[Home page](https://git-scm.com/), [Source code](https://github.com/git/git)|
+|Sapling|A Scalable, User-Friendly Source Control System.|[Source code](https://github.com/facebook/sapling)|
 
 ## Shells
 
 |Name|Description|Links|
 |-|-|-|
 |Nushell|A new type of shell|[Home page](https://www.nushell.sh/), [Source code](https://github.com/nushell/nushell)|
-|Sapling|A Scalable, User-Friendly Source Control System.|[Source code](https://github.com/facebook/sapling)|
 
 ## Converters
 
@@ -59,6 +59,8 @@ This is a collection of great free and open source software.
 |Name|Description|Links|
 |-|-|-|
 |VLC|VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.|[Home page](https://www.videolan.org/vlc/)|
+|SMPlayer|Free Media Player with built-in codecs.|[Home page](https://www.smplayer.info/en/info)|
+|SMTube|SMTube is an application that allows to browse, search and play YouTube videos.|[Home page](https://www.smtube.org/)|
 
 ## Game development
 
