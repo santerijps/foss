@@ -6,6 +6,7 @@ This is a collection of great free and open source software.
 
 |Name|Description|Links|
 |-|-|-|
+|Thorium|Thorium - The fastest browser on Earth.|[Home page](https://thorium.rocks/)|
 |Ungoogled Chromium|Google Chromium, sans integration with Google|[Source code](https://github.com/ungoogled-software/ungoogled-chromium), [Binaries](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)|
 
 ## Text editors and IDEs
