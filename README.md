@@ -121,3 +121,4 @@ This is a collection of great free and open source software.
 |Name|Description|Links|
 |-|-|-|
 |Jitsi Meet|Jitsi Meet is a set of Open Source projects which empower users to deploy secure, scalable and easy to use video conferencing platforms with state-of-the-art video quality and features.|[Home page](https://jitsi.github.io/handbook/)|
+|Cutter|Free and Open Source Reverse Engineering Platform powered by rizin|[Home page](https://cutter.re/)|
